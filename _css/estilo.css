@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: rgb(181, 243, 222);
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    }
+
+div#interface {
+    width: 1000px;
+    margin: auto; 
+}
+
+p#texto {
+    font-family: arial, sans-serif;
+
+}
+
+p#imagens {
+    position: absolute;
+       
+}
+
